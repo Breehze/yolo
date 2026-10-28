@@ -1,2 +1,2 @@
 # yolo
-I wanted YOLO badge
+I want  yolo
